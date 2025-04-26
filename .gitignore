@@ -34,15 +34,9 @@ nohup.out
 *.csv
 *.tsv
 *.json
-*.txt
 
-# Ignore large image files
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.tiff
-*.svg
+
+
 
 # Ignore compressed files
 *.zip
